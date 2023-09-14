@@ -95,24 +95,29 @@ print("For population =70,000,we predict a profit a profit of $"+str(round(predi
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
 
 COMPUTE COST VALUE
+
 ![image](https://github.com/JoyceBeulah/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343698/9d614eb7-12ea-4cb7-a6a7-ff0a363ebeb9)
 
 H(X) VALUE
+
 ![image](https://github.com/JoyceBeulah/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343698/be0b6588-fe99-46b4-b9cd-c97d2be22bae)
 
 COST FUNCTION USING GRADIENT DESCENT GRAPH
+
 ![image](https://github.com/JoyceBeulah/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343698/1bd000e1-d4d4-4c7f-9151-f24daf6fdf05)
 
 PROFIT PREDICTION GRAPH
+
 ![image](https://github.com/JoyceBeulah/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343698/3538b605-7d05-46df-b69b-c74a9e510343)
 
 PROFIT FOR THE POPULATION 35,000
+
 ![image](https://github.com/JoyceBeulah/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343698/ed35a3a9-2d6e-44c5-975a-100c25b493fa)
 
 PROFIT FOR THE POPULATION 70,000
+
 ![image](https://github.com/JoyceBeulah/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118343698/8e724f8a-5f3d-45de-a682-7cfaa75d5062)
 
 ## Result:
